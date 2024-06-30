@@ -14,15 +14,25 @@ Yh i know my Readme Sucks and all Manage it 😶
 Go to your termux and input this commands:
 
 termux-setup-storage
+
 apt update
+
 apt upgrade
+
 pkg update && pkg upgrade
+
 pkg install bash
+
 pkg install libwebp
+
 pkg install git -y
+
 pkg install nodejs -y
+
 pkg install ffmpeg -y 
+
 pkg install wget
+
 pkg install imagemagick -y
 
 
