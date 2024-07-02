@@ -12,7 +12,7 @@ Yh i know my Readme Sucks and all Manage it 😶
 ### DEPLOY ON REPLIT
 IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
     <br>
-    <a href='https://github.com/Toxic1239/TOXXIC_BUG_BOT' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://replit.com/github/Toxic1239/TOXXIC_BUG_BOT' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 
 ### How to deploy a TOXXIC MD BUG BOT on termux
