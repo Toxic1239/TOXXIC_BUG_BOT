@@ -7,7 +7,9 @@ TOXXIC MD BUG BOT is a bug bot designed to disable the account of Scammers all o
 Yh i know my Readme Sucks and all Manage it 😶
 
 1. Click on **[Fork](https://github.com/Toxic1239/TOXXIC_BUG_BOT/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
+2. 
 2.### DEPLOY ON REPLIT
+IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
     <br>
     <a href='https://replit.com/github/Deeceexxx/Queen_Anita-V2' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
