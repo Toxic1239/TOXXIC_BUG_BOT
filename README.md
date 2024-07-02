@@ -7,14 +7,15 @@ TOXXIC MD BUG BOT is a bug bot designed to disable the account of Scammers all o
 Yh i know my Readme Sucks and all Manage it 😶
 
 1. Click on **[Fork](https://github.com/Toxic1239/TOXXIC_BUG_BOT/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
-2. 
-2.### DEPLOY ON REPLIT
+
+*DEPLOYMENT PROCESS*
+### DEPLOY ON REPLIT
 IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
     <br>
     <a href='https://replit.com/github/Deeceexxx/Queen_Anita-V2' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
-3.HOW TO DEPLOY TOXXIC MD BUG BOT ON TERMUX
-*How to deploy a TOXXIC MD BUG BOT on termux*
+
+### How to deploy a TOXXIC MD BUG BOT on termux
 
 Go to your termux and input this commands:
 
@@ -86,9 +87,10 @@ It will come online
 
 Contributions to Toxxic Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
-   thinks to these persons ;
+   thanks to these people ;
 
-   **Tech God** who made the base bot; <br>
+   **Tech God** who made the base bot
+   **David** for inspiration; <br>
 
 
 ## License
