@@ -6,9 +6,12 @@ TOXXIC MD BUG BOT is a bug bot designed to disable the account of Scammers all o
 
 Yh i know my Readme Sucks and all Manage it 😶
 
-1. Click on **[Fork](https://github.com/Toxic1239/TOXXIC_BUG_BOT/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
+1. Click on **[Fork](https://github.com/Toxic1239/TOXXIC_BUG_BOT/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
+2. DEPLOY ON `REPLIT`
+IF You dont Have a REPLIT account, make one and deploy
 
-2. HOW TO DEPLOY TOXXIC MD BUG BOT ON TERMUX
+
+3.HOW TO DEPLOY TOXXIC MD BUG BOT ON TERMUX
 *How to deploy a TOXXIC MD BUG BOT on termux*
 
 Go to your termux and input this commands:
