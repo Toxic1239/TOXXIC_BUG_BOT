@@ -12,14 +12,14 @@ Yh i know my Readme Sucks and all Manage it 😶
 
 1. Click on **[Fork](https://github.com/Toxic1239/TOXXIC_BUG_BOT/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
 
-*DEPLOYMENT PROCESS*
+**DEPLOYMENT PROCESS**
 ### DEPLOY ON REPLIT
 IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
     <br>
     <a href='https://replit.com/github/Toxic1239/TOXXIC_BUG_BOT' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 
-### How to deploy a TOXXIC MD BUG BOT on termux
+### DEPLOYMENT ON TERMUX
 
 **Go to your termux and input this commands**
 termux-setup-storage
@@ -74,6 +74,8 @@ npm start
 13. After linking
 14. Bot Connected ⚡
 15. Enjoy🤗
+
+### REPORT ISSUES
 
 if you're having any issues message me on
 WhatsApp: wa.me/33757054414
