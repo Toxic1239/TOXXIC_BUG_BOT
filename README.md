@@ -78,7 +78,7 @@ npm start
 ### REPORT ISSUES
 
 if you're having any issues message me on
-WhatsApp: wa.me/33757054414
+WhatsApp: (https://wa.me/33757054414) 
 
 If the bot goes offline 
 Just type cd and the bot name 
