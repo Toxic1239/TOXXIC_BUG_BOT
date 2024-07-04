@@ -1,6 +1,10 @@
-### TOXXICMDV1
-
-
+<h1 align="center"> TOXXIC_BUG_BOT </h1>
+<p align="center">  
+  
+***
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;TOXXIC_BUG_BOT;WHATSAPP+BUG+BOT;CREATED+BY+TOXXIC+BOY;RELEASED+29.06.24" alt="Typing SVG" /></a>
+  </p>
 
 TOXXIC MD BUG BOT is a bug bot designed to disable the account of Scammers all over the world use  reasonable
 
@@ -17,7 +21,7 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
 
 ### How to deploy a TOXXIC MD BUG BOT on termux
 
-Go to your termux and input this commands:
+**Go to your termux and input this commands**
 termux-setup-storage
 
 apt update
@@ -89,7 +93,8 @@ Contributions to Toxxic Md are welcome! If you have ideas for new features, impr
    thanks to these people ;
 
    **Xeon** who made the base bot
-   **David** for inspiration; <br>
+   
+   **David Cryil** for inspiration; <br>
 
 
 ## License
