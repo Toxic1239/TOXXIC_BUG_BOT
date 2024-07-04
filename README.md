@@ -88,7 +88,7 @@ Contributions to Toxxic Md are welcome! If you have ideas for new features, impr
 
    thanks to these people ;
 
-   **Tech God** who made the base bot
+   **Xeon** who made the base bot
    **David** for inspiration; <br>
 
 
