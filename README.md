@@ -95,6 +95,8 @@ Contributions to Toxxic Md are welcome! If you have ideas for new features, impr
    thanks to these people ;
 
    **Xeon** who made the base bot
+
+   **DC YOUNG FLY** For helping me test it
    
    **David Cryil** for inspiration; <br>
 
