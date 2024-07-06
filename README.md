@@ -51,7 +51,7 @@ If you see any question while upgrading with this options with Y or n for defaul
 
 6. After its done upgrading type or copy and paste:
 
-git clone  https://github.com/Toxic1239/TOXXIC_BUG_BOT/ 
+git clone  (copy and paste your forked repo not mine to save your changes) 
 
 7. After that type: 
 
